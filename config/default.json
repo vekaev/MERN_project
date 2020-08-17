@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret" : "petrenko make mern",
+  "mongoUri" : "mongodb+srv://vekaev:33591998@merncluster.gqtzq.azure.mongodb.net/app?retryWrites=true&w=majority"
+}

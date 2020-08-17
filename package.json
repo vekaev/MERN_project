@@ -1,0 +1,32 @@
+{
+  "name": "mern_project",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vekaev/MERN_project.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Yevhenii Petrenko <vekaev4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vekaev/MERN_project/issues"
+  },
+  "homepage": "https://github.com/vekaev/MERN_project#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.0"
+  }
+}
